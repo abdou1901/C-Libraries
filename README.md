@@ -72,7 +72,7 @@ gcc -o my_program my_program.c num.c -I./numbers
 ```
 
 ## Documentation
-A detailed documentation file (`docs/documentation.md`) is included in the `docs` folder. It provides explanations, examples, and usage instructions for every function across all libraries.
+A detailed documentation file (`docs/documentation.pdf`) is included in the `docs` folder. It provides explanations, examples, and usage instructions for every function across all libraries.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
